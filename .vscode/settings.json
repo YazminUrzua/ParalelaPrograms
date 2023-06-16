@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "3Parcial/Sockets/src",
+        "3Parcial/CalculadoraRMI/src",
+        "2Parcial/Merge",
+        "1Parcial/Proyecto/Carril",
+        "1Parcial/ProductorConsumidor",
+        "1Parcial/HolaHilo",
+        "1Parcial/Carrera",
+        "1Parcial/CalculadoraInterfaz",
+        "1Parcial/Botones",
+        "1Parcial/Proyecto/Santa"
+    ]
+}

@@ -1,0 +1,4 @@
+Para la ejecución de este hilo en java:
+1. Ubicarse en la ruta correcta
+2. javac hilo.java
+3. java hilo
